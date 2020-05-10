@@ -14,6 +14,7 @@ public class DetailActivity extends AppCompatActivity {
 
         ActionBar ab=getSupportActionBar();
         assert ab != null;
+
         ab.setTitle("PAC3_app DETALL");
     }
 }
