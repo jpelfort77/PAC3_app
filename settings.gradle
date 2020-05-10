@@ -1,0 +1,2 @@
+rootProject.name='PAC3_app'
+include ':app'
